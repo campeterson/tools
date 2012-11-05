@@ -37,3 +37,6 @@
 [submodule "povray"]
 	path = povray
 	url = git://github.com/lpireyn/povray.git
+[submodule "MongoHub-Mac"]
+	path = MongoHub-Mac
+	url = git://github.com/bububa/MongoHub-Mac.git
