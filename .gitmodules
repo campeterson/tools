@@ -1,3 +1,6 @@
 [submodule "WhatWeb"]
 	path = WhatWeb
 	url = git://github.com/urbanadventurer/WhatWeb.git
+[submodule "the_silver_searcher"]
+	path = the_silver_searcher
+	url = git://github.com/ggreer/the_silver_searcher.git
