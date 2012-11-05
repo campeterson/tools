@@ -4,3 +4,9 @@
 [submodule "the_silver_searcher"]
 	path = the_silver_searcher
 	url = git://github.com/ggreer/the_silver_searcher.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = git://github.com/mileszs/ack.vim.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
