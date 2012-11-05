@@ -10,3 +10,15 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "vim-css-color"]
+	path = vim-css-color
+	url = git://github.com/ap/vim-css-color.git
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = git://github.com/scrooloose/nerdcommenter.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "supertab"]
+	path = supertab
+	url = git://github.com/ervandew/supertab.git
