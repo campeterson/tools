@@ -40,3 +40,18 @@
 [submodule "MongoHub-Mac"]
 	path = MongoHub-Mac
 	url = git://github.com/bububa/MongoHub-Mac.git
+[submodule "phantomjs"]
+	path = phantomjs
+	url = git://github.com/ariya/phantomjs.git
+[submodule "phantomjs-screenshots"]
+	path = phantomjs-screenshots
+	url = git://github.com/hggh/phantomjs-screenshots.git
+[submodule "TimelineJS"]
+	path = TimelineJS
+	url = git://github.com/VeriteCo/TimelineJS.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "pouchdb"]
+	path = pouchdb
+	url = git://github.com/daleharvey/pouchdb.git
