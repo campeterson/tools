@@ -55,3 +55,12 @@
 [submodule "pouchdb"]
 	path = pouchdb
 	url = git://github.com/daleharvey/pouchdb.git
+[submodule "omnigraffle-export"]
+	path = omnigraffle-export
+	url = git://github.com/fikovnik/omnigraffle-export.git
+[submodule "slodown"]
+	path = slodown
+	url = git://github.com/hmans/slodown.git
+[submodule "angularjs_scaffold"]
+	path = angularjs_scaffold
+	url = git://github.com/patcito/angularjs_scaffold.git
