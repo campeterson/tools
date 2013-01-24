@@ -64,3 +64,9 @@
 [submodule "angularjs_scaffold"]
 	path = angularjs_scaffold
 	url = git://github.com/patcito/angularjs_scaffold.git
+[submodule "selfstarter"]
+	path = selfstarter
+	url = git://github.com/lockitron/selfstarter.git
+[submodule "kandan"]
+	path = kandan
+	url = git://github.com/cloudfuji/kandan.git
