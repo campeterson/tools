@@ -70,3 +70,15 @@
 [submodule "kandan"]
 	path = kandan
 	url = git://github.com/cloudfuji/kandan.git
+[submodule "vie-annotation-bookmarklet"]
+	path = vie-annotation-bookmarklet
+	url = git://github.com/szabyg/vie-annotation-bookmarklet.git
+[submodule "ruby-warrior"]
+	path = ruby-warrior
+	url = git://github.com/ryanb/ruby-warrior.git
+[submodule "vim-ruby-minitest"]
+	path = vim-ruby-minitest
+	url = git://github.com/sunaku/vim-ruby-minitest.git
+[submodule "minitest"]
+	path = minitest
+	url = git://github.com/seattlerb/minitest.git
