@@ -82,3 +82,12 @@
 [submodule "minitest"]
 	path = minitest
 	url = git://github.com/seattlerb/minitest.git
+[submodule "em-mongo"]
+	path = em-mongo
+	url = git://github.com/bcg/em-mongo.git
+[submodule "goliath"]
+	path = goliath
+	url = git://github.com/postrank-labs/goliath.git
+[submodule "cramp"]
+	path = cramp
+	url = git://github.com/lifo/cramp.git
