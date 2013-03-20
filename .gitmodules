@@ -91,3 +91,21 @@
 [submodule "cramp"]
 	path = cramp
 	url = git://github.com/lifo/cramp.git
+[submodule "juvia"]
+	path = juvia
+	url = git@github.com:campeterson/juvia.git
+[submodule "hipchat-adium-message-style"]
+	path = hipchat-adium-message-style
+	url = git://github.com/schisamo/hipchat-adium-message-style.git
+[submodule "jquery-collagePlus"]
+	path = jquery-collagePlus
+	url = git://github.com/ed-lea/jquery-collagePlus.git
+[submodule "jquery-waypoints"]
+	path = jquery-waypoints
+	url = git://github.com/imakewebthings/jquery-waypoints.git
+[submodule "deck.js"]
+	path = deck.js
+	url = git://github.com/imakewebthings/deck.js.git
+[submodule "deck2pdf"]
+	path = deck2pdf
+	url = https://github.com/imakewebthings/deck2pdf
